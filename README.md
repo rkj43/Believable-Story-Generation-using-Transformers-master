@@ -42,6 +42,15 @@ The fine-tuning process consists of:
 - Human evaluation results are stored in survey_Results.csv. These results are used to calculate the average human rating. The FinalCalculations.ipynb Jupyter notebook is then used to standardize all the ratings for comparison purposes.
 
 
+**The Best Rated Story combined with midjourney **
+
+![Kota1](https://github.com/rkj43/Believable-Story-Generation-using-Transformers-master/assets/53295999/552bf307-14e8-42be-b52f-106eaa055c1f)
+![Kota4](https://github.com/rkj43/Believable-Story-Generation-using-Transformers-master/assets/53295999/0f19cf03-c2a6-441b-822f-7c8d45d7b2fd)
+![Kota3](https://github.com/rkj43/Believable-Story-Generation-using-Transformers-master/assets/53295999/44cd8418-3795-4a97-b8d5-24620c51e53a)
+![Kota2](https://github.com/rkj43/Believable-Story-Generation-using-Transformers-master/assets/53295999/884cb0a2-cc7c-4aa9-a5e5-2f2754e33758)
+![Kota5](https://github.com/rkj43/Believable-Story-Generation-using-Transformers-master/assets/53295999/e7960195-977f-45eb-8c80-da0a5b4ea2cd)
+
+
 **Conclusion**
 
 This project provides valuable insights into the narrative generation capabilities of GPT-2, GPT-3, and GPT-4 models. We hope this repository will be a useful resource for others looking to explore this field of research.
@@ -54,3 +63,4 @@ Here we will list out some notable websites that were used to refer for the codi
 - https://scikit-learn.org
 - https://stackoverflow.com/
 - https://www.kaggle.com/code/floevan/dl-and-ml-for-nlp/notebook#SIMPLE-RNN
+- https://www.midjourney.com
