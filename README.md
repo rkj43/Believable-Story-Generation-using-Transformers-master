@@ -10,14 +10,14 @@ anime_info.csv: This is the dataset used in the project, collected from MyAnimeL
 
 survey_Results.csv: This file contains the results of our human evaluation survey.
 
-FinalCalculations.ipynb: This Jupyter notebook contains all the calculations for the standardization and comparison of the ratings.
+FinalCalculations.ipynb: This  notebook contains all the calculations for the standardization and comparison of the ratings.
 
 **Code**
 
-- dataset_fetcher.ipynb: This Jupyter notebook sends API requests to MyAnimeList to collect our dataset.
-- ZeroShot_Stories.ipynb: This Jupyter notebook makes use of GPT-2, GPT-3 and GPT-4 for zero-shot story generation. The GPT-2 model is accessed through Hugging Face, while the GPT-3 and GPT-4 models are accessed via OpenAI.
-- Anime_Generation_GPT2_SampleTest1.ipynb: This Jupyter notebook contains the code for fine-tuning the GPT-2 model.
-- GPT3_Anime_Generator_Model_final.ipynb: This Jupyter notebook contains the code for fine-tuning the GPT-3 model.
+- dataset_fetcher.ipynb: This  notebook sends API requests to MyAnimeList to collect our dataset.
+- ZeroShot_Stories.ipynb: This  notebook makes use of GPT-2, GPT-3 and GPT-4 for zero-shot story generation. The GPT-2 model is accessed through Hugging Face, while the GPT-3 and GPT-4 models are accessed via OpenAI.
+- Anime_Generation_GPT2_SampleTest1.ipynb: This  notebook contains the code for fine-tuning the GPT-2 model.
+- GPT3_Anime_Generator_Model_final.ipynb: This  notebook contains the code for fine-tuning the GPT-3 model.
 
 **Setup**
 
