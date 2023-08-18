@@ -42,7 +42,7 @@ The fine-tuning process consists of:
 - Human evaluation results are stored in survey_Results.csv. These results are used to calculate the average human rating. The FinalCalculations.ipynb Jupyter notebook is then used to standardize all the ratings for comparison purposes.
 
 
-**The Best Rated Story combined with midjourney **
+**The Best Rated Story combined with midjourney**
 
 ![Kota1](https://github.com/rkj43/Believable-Story-Generation-using-Transformers-master/assets/53295999/552bf307-14e8-42be-b52f-106eaa055c1f)
 ![Kota4](https://github.com/rkj43/Believable-Story-Generation-using-Transformers-master/assets/53295999/0f19cf03-c2a6-441b-822f-7c8d45d7b2fd)
