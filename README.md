@@ -2,6 +2,14 @@
 
 This repository contains all the code and data used in our research project, where we utilized GPT-2, GPT-3, and GPT-4 language models for generating anime narratives. The project involves both zero-shot story generation and fine-tuning of the models on a custom dataset.
 
+*The Best Rated Story combined with midjourney*
+
+![Kota1](https://github.com/rkj43/Believable-Story-Generation-using-Transformers-master/assets/53295999/552bf307-14e8-42be-b52f-106eaa055c1f)
+![Kota4](https://github.com/rkj43/Believable-Story-Generation-using-Transformers-master/assets/53295999/0f19cf03-c2a6-441b-822f-7c8d45d7b2fd)
+![Kota3](https://github.com/rkj43/Believable-Story-Generation-using-Transformers-master/assets/53295999/44cd8418-3795-4a97-b8d5-24620c51e53a)
+![Kota2](https://github.com/rkj43/Believable-Story-Generation-using-Transformers-master/assets/53295999/884cb0a2-cc7c-4aa9-a5e5-2f2754e33758)
+![Kota5](https://github.com/rkj43/Believable-Story-Generation-using-Transformers-master/assets/53295999/e7960195-977f-45eb-8c80-da0a5b4ea2cd)
+
 **Contents**
 
 src/: This directory contains all the necessary code files.
